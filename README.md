@@ -25,11 +25,26 @@ Soy Tecnólogo en Análisis y Desarrollo de Software enfocado en construir arqui
 
 ### 💻 Tecnologías y Herramientas
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,tailwind,postgres,mongodb,supabase,docker,nginx,github&theme=dark" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%"><b>🎨 Frontend</b></td>
+      <td align="center" width="33%"><b>⚙️ Backend y BD</b></td>
+      <td align="center" width="33%"><b>🛠️ Infraestructura</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4&theme=dark" alt="Frontend" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase&perline=3&theme=dark" alt="Backend" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,nginx,linux,gcp,git,github&perline=3&theme=dark" alt="DevOps" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🚀 Proyectos Destacados
 
