@@ -1,11 +1,19 @@
 <h1 align="center">¡Hola! Soy Andres Felipe Carvajal Tasco 👋</h1>
 
 <p align="center">
-  <a href="https://wa.me/573238166718" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://instagram.com/andft_0" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="andft_0"/></a>
-  <a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-  <a href="mailto:andrescarvajal1415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Andres" /></a>
-  </p>
+  <a href="https://wa.me/573238166718" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/andft_0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram andft_0" />
+  </a>
+  <a href="https://fb.com/unsimpledev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook unsimpledev" />
+  </a>
+  <a href="mailto:andrescarvajal1415@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Andres" />
+  </a>
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2CA5E0&center=false&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Estudiante+ADSO+en+el+SENA;Creador+de+Soluciones;Enfoque+en+Seguridad"; alt="Typing SVG" />
