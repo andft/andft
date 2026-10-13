@@ -10,7 +10,7 @@ Soy Tecnólogo en Análisis y Desarrollo de Software enfocado en construir arqui
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,postgres,mongodb,supabase,docker,nginx,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,tailwind,postgres,mongodb,supabase,docker,nginx,git,github&theme=dark" />
   </a>
 </p>
 
