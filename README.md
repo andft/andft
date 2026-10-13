@@ -1,4 +1,6 @@
-<h1 align="center">¡Hola! Soy Andres Felipe Carvajal Tasco 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Andres%20Carvajal&fontSize=40&fontAlignY=42&desc=Desarrollador%20Full%20Stack&descAlignY=75&descSize=15&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <a href="https://wa.me/573238166718" target="_blank">
