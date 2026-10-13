@@ -23,5 +23,5 @@ Soy Tecnólogo en Análisis y Desarrollo de Software enfocado en construir arqui
 ### 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andft&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
