@@ -39,7 +39,7 @@ Soy Tecnólogo en Análisis y Desarrollo de Software enfocado en construir arqui
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andft&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img wigth="170" src="https://github-readme-stats.vercel.app/api?username=andft&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
   &nbsp;&nbsp;
-  <img height="170" src="https://streak-stats.demolab.com?user=andft&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img wigth="170" src="https://streak-stats.demolab.com?user=andft&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
