@@ -25,7 +25,7 @@ Soy Tecnólogo en Análisis y Desarrollo de Software enfocado en construir arqui
 
 ### 💻 Tecnologías y Herramientas
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center" width="33%"><b>🎨 Frontend</b></td>
@@ -47,9 +47,9 @@ Soy Tecnólogo en Análisis y Desarrollo de Software enfocado en construir arqui
 </div>
 
 ### 🚀 Proyectos Destacados
-
-* **Mi Planilla:** Sistema automatizado para la generación y gestión de certificados.
-* **Herramienta de Análisis Crediticio:** Integración de IA para evaluación de riesgo en entornos corporativos y cooperativas.
+  
+- 📄 **Mi Planilla:** Sistema automatizado para la generación y gestión ágil de certificados.  
+- 🤖 **Análisis de Crédito:** Herramienta de análisis crediticio que integra IA para la evaluación de riesgo corporativo. 
 
 ### 📊 Estadísticas de GitHub
 
