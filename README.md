@@ -10,7 +10,7 @@
   <a href="https://fb.com/unsimpledev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook unsimpledev" />
   </a>
-  <a href="mailto:andrescarvajal1415@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrescarvajal1415@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Andres" />
   </a>
 </p>
